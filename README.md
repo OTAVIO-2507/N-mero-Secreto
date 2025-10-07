@@ -2,7 +2,8 @@
 Um simples jogo de adivinhação de números, focado em lógica e tentativas, desenvolvido com tecnologias web básicas (presumindo HTML, CSS e JavaScript). O jogador tenta acertar o número secreto e recebe feedback em tempo real se o palpite foi maior ou menor que o número correto. Ao acertar, o jogo exibe o número de tentativas necessárias, incentivando o jogador a ser mais eficiente.
 
 ## 🌐 Visualize o projeto:
-Ver Projeto Online (Substitua pela URL onde seu jogo está hospedado)
+[Ver Projeto Online (Substitua pela URL onde seu jogo está hospedado)](https://otavio-2507.github.io/N-mero-Secreto/
+)
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5: Estrutura semântica para os campos de entrada e exibição de mensagens
